@@ -1,0 +1,6 @@
+C:\Users\ncollins\nicholascollins-c-exercises\m1-w2d4-introduction-to-classes-exercise\ShoppingCartExercise\bin\Debug\ShoppingCartExercise.exe.config
+C:\Users\ncollins\nicholascollins-c-exercises\m1-w2d4-introduction-to-classes-exercise\ShoppingCartExercise\bin\Debug\ShoppingCartExercise.exe
+C:\Users\ncollins\nicholascollins-c-exercises\m1-w2d4-introduction-to-classes-exercise\ShoppingCartExercise\bin\Debug\ShoppingCartExercise.pdb
+C:\Users\ncollins\nicholascollins-c-exercises\m1-w2d4-introduction-to-classes-exercise\ShoppingCartExercise\obj\Debug\ShoppingCartExercise.csprojResolveAssemblyReference.cache
+C:\Users\ncollins\nicholascollins-c-exercises\m1-w2d4-introduction-to-classes-exercise\ShoppingCartExercise\obj\Debug\ShoppingCartExercise.exe
+C:\Users\ncollins\nicholascollins-c-exercises\m1-w2d4-introduction-to-classes-exercise\ShoppingCartExercise\obj\Debug\ShoppingCartExercise.pdb

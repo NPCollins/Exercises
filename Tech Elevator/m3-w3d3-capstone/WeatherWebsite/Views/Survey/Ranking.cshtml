@@ -1,0 +1,32 @@
+﻿
+@{
+    ViewBag.Title = "Ranking";
+}
+
+@using WeatherWebsite.Models;
+@using WeatherWebsite.DALs;
+
+@{ SurveySQLDAL getRanking = new SurveySQLDAL();}
+@{ List<SurveyResult> ranking = getRanking.GetRanking(); }
+
+<h2>Ranking of Parks by Votes</h2>
+<table>
+    <tr>
+        <th>Park Name</th>
+        <th></th>
+        <th>Votes</th>
+    </tr>
+    
+    @foreach (SurveyResult park in ranking)
+    {
+        <tr>
+            <td>@park.ParkName</td>
+            <td></td> 
+            <td align="right">@park.NumberOfVotes</td>
+        </tr>
+    }
+</table>
+<div>
+    <h4>Vote for your favorite park by going to the Park Survey Link on the menu bar above!</h4>
+</div>
+

@@ -1,0 +1,6 @@
+C:\Users\ncollins\nicholascollins-c-exercises\m1-w2d4-introduction-to-classes-exercise\CalculatorExercise\bin\Debug\CalculatorExercise.exe.config
+C:\Users\ncollins\nicholascollins-c-exercises\m1-w2d4-introduction-to-classes-exercise\CalculatorExercise\bin\Debug\CalculatorExercise.exe
+C:\Users\ncollins\nicholascollins-c-exercises\m1-w2d4-introduction-to-classes-exercise\CalculatorExercise\bin\Debug\CalculatorExercise.pdb
+C:\Users\ncollins\nicholascollins-c-exercises\m1-w2d4-introduction-to-classes-exercise\CalculatorExercise\obj\Debug\CalculatorExercise.exe
+C:\Users\ncollins\nicholascollins-c-exercises\m1-w2d4-introduction-to-classes-exercise\CalculatorExercise\obj\Debug\CalculatorExercise.pdb
+C:\Users\ncollins\nicholascollins-c-exercises\m1-w2d4-introduction-to-classes-exercise\CalculatorExercise\obj\Debug\CalculatorExercise.csprojResolveAssemblyReference.cache

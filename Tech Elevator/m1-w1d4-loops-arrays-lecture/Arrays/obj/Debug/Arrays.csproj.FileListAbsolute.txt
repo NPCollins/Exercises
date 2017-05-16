@@ -1,0 +1,6 @@
+C:\Users\ncollins\c-lectures\m1-w1d4-loops-arrays-lecture\Arrays\bin\Debug\Arrays.exe.config
+C:\Users\ncollins\c-lectures\m1-w1d4-loops-arrays-lecture\Arrays\bin\Debug\Arrays.exe
+C:\Users\ncollins\c-lectures\m1-w1d4-loops-arrays-lecture\Arrays\bin\Debug\Arrays.pdb
+C:\Users\ncollins\c-lectures\m1-w1d4-loops-arrays-lecture\Arrays\obj\Debug\Arrays.csprojResolveAssemblyReference.cache
+C:\Users\ncollins\c-lectures\m1-w1d4-loops-arrays-lecture\Arrays\obj\Debug\Arrays.exe
+C:\Users\ncollins\c-lectures\m1-w1d4-loops-arrays-lecture\Arrays\obj\Debug\Arrays.pdb

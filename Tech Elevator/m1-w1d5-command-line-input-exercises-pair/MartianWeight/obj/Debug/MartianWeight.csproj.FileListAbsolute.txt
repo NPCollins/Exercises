@@ -1,0 +1,6 @@
+C:\Users\ncollins\week1team3-c-week1-pair-exercises\m1-w1d5-command-line-input-exercises-pair\MartianWeight\bin\Debug\MartianWeight.exe.config
+C:\Users\ncollins\week1team3-c-week1-pair-exercises\m1-w1d5-command-line-input-exercises-pair\MartianWeight\bin\Debug\MartianWeight.exe
+C:\Users\ncollins\week1team3-c-week1-pair-exercises\m1-w1d5-command-line-input-exercises-pair\MartianWeight\bin\Debug\MartianWeight.pdb
+C:\Users\ncollins\week1team3-c-week1-pair-exercises\m1-w1d5-command-line-input-exercises-pair\MartianWeight\obj\Debug\MartianWeight.csprojResolveAssemblyReference.cache
+C:\Users\ncollins\week1team3-c-week1-pair-exercises\m1-w1d5-command-line-input-exercises-pair\MartianWeight\obj\Debug\MartianWeight.exe
+C:\Users\ncollins\week1team3-c-week1-pair-exercises\m1-w1d5-command-line-input-exercises-pair\MartianWeight\obj\Debug\MartianWeight.pdb

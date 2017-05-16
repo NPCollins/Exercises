@@ -1,0 +1,6 @@
+C:\Users\ncollins\c-lectures\m1-w1d5-command-line-input-lecture\CommandArgs\bin\Debug\CommandArgs.exe.config
+C:\Users\ncollins\c-lectures\m1-w1d5-command-line-input-lecture\CommandArgs\bin\Debug\CommandArgs.exe
+C:\Users\ncollins\c-lectures\m1-w1d5-command-line-input-lecture\CommandArgs\bin\Debug\CommandArgs.pdb
+C:\Users\ncollins\c-lectures\m1-w1d5-command-line-input-lecture\CommandArgs\obj\Debug\CommandArgs.csprojResolveAssemblyReference.cache
+C:\Users\ncollins\c-lectures\m1-w1d5-command-line-input-lecture\CommandArgs\obj\Debug\CommandArgs.exe
+C:\Users\ncollins\c-lectures\m1-w1d5-command-line-input-lecture\CommandArgs\obj\Debug\CommandArgs.pdb

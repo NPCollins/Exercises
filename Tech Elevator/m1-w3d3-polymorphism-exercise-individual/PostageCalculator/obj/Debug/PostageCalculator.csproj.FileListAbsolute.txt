@@ -1,0 +1,6 @@
+C:\Users\ncollins\nicholascollins-c-exercises\m1-w3d3-polymorphism-exercise-individual\PostageCalculator\bin\Debug\PostageCalculator.exe.config
+C:\Users\ncollins\nicholascollins-c-exercises\m1-w3d3-polymorphism-exercise-individual\PostageCalculator\bin\Debug\PostageCalculator.exe
+C:\Users\ncollins\nicholascollins-c-exercises\m1-w3d3-polymorphism-exercise-individual\PostageCalculator\bin\Debug\PostageCalculator.pdb
+C:\Users\ncollins\nicholascollins-c-exercises\m1-w3d3-polymorphism-exercise-individual\PostageCalculator\obj\Debug\PostageCalculator.csprojResolveAssemblyReference.cache
+C:\Users\ncollins\nicholascollins-c-exercises\m1-w3d3-polymorphism-exercise-individual\PostageCalculator\obj\Debug\PostageCalculator.exe
+C:\Users\ncollins\nicholascollins-c-exercises\m1-w3d3-polymorphism-exercise-individual\PostageCalculator\obj\Debug\PostageCalculator.pdb

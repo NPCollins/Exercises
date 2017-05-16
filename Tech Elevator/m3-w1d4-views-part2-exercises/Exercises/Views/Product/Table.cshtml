@@ -1,0 +1,75 @@
+﻿@using Exercises.Models;
+
+@model List<Product>
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+    <link rel="stylesheet" href="~/Content/styles.css" />
+    <title></title>
+</head>
+<body>
+    <header>
+        <h1>ASP.NET MVC Exercises - Views Part 2: Models</h1>
+    </header>
+    <nav>
+        <ul>
+            <li>@Html.ActionLink("List", "List", "Product")</li>
+            <li>@Html.ActionLink("Tile", "Tile", "Product")</li>
+            <li>@Html.ActionLink("Table", "Table", "Product")</li>
+        </ul>
+
+    </nav>
+    <section id="main-content">
+        <div>
+            <table class="center">
+                <tr>
+                    <th></th>
+                    @foreach (var product in Model)
+                    {
+                        <td><img src="~/Content/images/@product.ImageName" style="width:100px" /></td>
+                    }
+                </tr>
+                <tr>
+                    <th>Name</th>
+                    @foreach (var product in Model)
+                    {
+                        <td>@product.Name</td>
+                    }
+                </tr>
+                <tr>
+                    <th>Rating</th>
+                    @foreach (var product in Model)
+                    {
+                        <td>@product.AverageRating</td>
+                    }
+                </tr>
+                <tr>
+                    <th>Mfr</th>
+                    @foreach (var product in Model)
+                    {
+                        <td>@product.Manufacturer</td>
+                    }
+                </tr>
+                <tr>
+                    <th>Price</th>
+                    @foreach (var product in Model)
+                    {
+                        <td>@product.Price</td>
+                    }
+                </tr>
+                <tr>
+                    <th>wt.(in lbs)</th>
+                    @foreach (var product in Model)
+                    {
+                        <td>@product.WeightInLbs</td>
+                    }
+                </tr>
+            </table>
+        </div>
+    </section>
+</body>
+</html>

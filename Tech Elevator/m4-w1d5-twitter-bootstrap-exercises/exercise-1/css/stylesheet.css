@@ -1,0 +1,82 @@
+#impact img {
+	width:100%;
+}
+
+#signup table {
+	border: 1px solid black;
+	width: 100%;
+}
+
+#signup th {
+	height: 200px;
+	text-align: center;
+}
+
+#signup tfoot {
+	height: 50px;
+}
+
+#signup table tbody {
+	color: black;
+	background-color: white;
+}
+
+#signup tr {
+	border-bottom: 1px solid grey;
+}
+
+#signup tr:nth-child(even){
+	background-color:#e5eeff;
+}
+
+#signup div:nth-child(2) table{
+	background-color:blue;
+	color:white;
+	
+}
+
+#signup div:nth-child(3) table{
+	background-color:#d64646;
+	color:white;
+	
+}
+
+#signup div:nth-child(4) table{
+	background-color:green;
+	color:white;
+	
+}
+
+#signup div:nth-child(2) button{
+	background-color:blue;
+	
+}
+
+#signup div:nth-child(3) button{
+	background-color:#d64646;
+}
+
+#signup div:nth-child(4) button{
+	background-color:green;
+}
+
+#signup button{
+	width:100%;
+	color:white;
+}
+
+header button{
+	background-color:white;
+	color:grey;
+	border: none;
+    padding: 15px 16px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+	font-weight:bold;
+}
+
+#signup td{
+	text-align:left;
+}

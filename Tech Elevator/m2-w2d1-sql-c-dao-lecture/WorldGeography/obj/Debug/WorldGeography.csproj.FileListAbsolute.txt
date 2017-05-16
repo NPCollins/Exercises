@@ -1,0 +1,6 @@
+C:\Users\ncollins\c-lectures\m2-w2d1-sql-c-dao-lecture\WorldGeography\bin\Debug\WorldGeography.exe.config
+C:\Users\ncollins\c-lectures\m2-w2d1-sql-c-dao-lecture\WorldGeography\bin\Debug\WorldGeography.exe
+C:\Users\ncollins\c-lectures\m2-w2d1-sql-c-dao-lecture\WorldGeography\bin\Debug\WorldGeography.pdb
+C:\Users\ncollins\c-lectures\m2-w2d1-sql-c-dao-lecture\WorldGeography\obj\Debug\WorldGeography.csprojResolveAssemblyReference.cache
+C:\Users\ncollins\c-lectures\m2-w2d1-sql-c-dao-lecture\WorldGeography\obj\Debug\WorldGeography.exe
+C:\Users\ncollins\c-lectures\m2-w2d1-sql-c-dao-lecture\WorldGeography\obj\Debug\WorldGeography.pdb

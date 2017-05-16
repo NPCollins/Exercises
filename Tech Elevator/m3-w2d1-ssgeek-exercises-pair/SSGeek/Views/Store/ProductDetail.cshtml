@@ -1,0 +1,29 @@
+﻿@using SSGeek.Models;
+
+
+@{
+    ViewBag.Title = "ProductDetail";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Solar System Geek Gift Shop</h2>
+
+@model Product
+
+<div>
+    @Html.BeginForm("ShoppingCart", "Store", FormMethod.Post) {
+
+        <div>
+            <table style="color:black">
+                <tbody>
+                    <tr>
+                        <td><img src="~/Content/img/@Model.ImageName" /></td>
+                        <td><span style="font-weight:bolder">@Model.Name @Model.Description <br /> @Model.Price <br /> Quantity to buy @Html.TextBox("Quantity") <input type="submit" value="Submit" /></span></td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+                            }
+</div>
+
+

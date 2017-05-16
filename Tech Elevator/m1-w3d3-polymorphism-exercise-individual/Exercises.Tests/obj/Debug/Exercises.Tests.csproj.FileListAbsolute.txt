@@ -1,0 +1,10 @@
+C:\Users\ncollins\nicholascollins-c-exercises\m1-w3d3-polymorphism-exercise-individual\Exercises.Tests\bin\Debug\Exercises.Tests.dll
+C:\Users\ncollins\nicholascollins-c-exercises\m1-w3d3-polymorphism-exercise-individual\Exercises.Tests\bin\Debug\Exercises.Tests.pdb
+C:\Users\ncollins\nicholascollins-c-exercises\m1-w3d3-polymorphism-exercise-individual\Exercises.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\ncollins\nicholascollins-c-exercises\m1-w3d3-polymorphism-exercise-individual\Exercises.Tests\bin\Debug\PostageCalculator.exe
+C:\Users\ncollins\nicholascollins-c-exercises\m1-w3d3-polymorphism-exercise-individual\Exercises.Tests\bin\Debug\TollBoothCalculator.exe
+C:\Users\ncollins\nicholascollins-c-exercises\m1-w3d3-polymorphism-exercise-individual\Exercises.Tests\bin\Debug\PostageCalculator.pdb
+C:\Users\ncollins\nicholascollins-c-exercises\m1-w3d3-polymorphism-exercise-individual\Exercises.Tests\bin\Debug\TollBoothCalculator.pdb
+C:\Users\ncollins\nicholascollins-c-exercises\m1-w3d3-polymorphism-exercise-individual\Exercises.Tests\obj\Debug\Exercises.Tests.csprojResolveAssemblyReference.cache
+C:\Users\ncollins\nicholascollins-c-exercises\m1-w3d3-polymorphism-exercise-individual\Exercises.Tests\obj\Debug\Exercises.Tests.dll
+C:\Users\ncollins\nicholascollins-c-exercises\m1-w3d3-polymorphism-exercise-individual\Exercises.Tests\obj\Debug\Exercises.Tests.pdb

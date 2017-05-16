@@ -1,0 +1,6 @@
+C:\Users\ncollins\nicholascollins-c-exercises\m1-w2d4-introduction-to-classes-exercise\PersonExercise\bin\Debug\PersonExercise.exe.config
+C:\Users\ncollins\nicholascollins-c-exercises\m1-w2d4-introduction-to-classes-exercise\PersonExercise\bin\Debug\PersonExercise.exe
+C:\Users\ncollins\nicholascollins-c-exercises\m1-w2d4-introduction-to-classes-exercise\PersonExercise\bin\Debug\PersonExercise.pdb
+C:\Users\ncollins\nicholascollins-c-exercises\m1-w2d4-introduction-to-classes-exercise\PersonExercise\obj\Debug\PersonExercise.csprojResolveAssemblyReference.cache
+C:\Users\ncollins\nicholascollins-c-exercises\m1-w2d4-introduction-to-classes-exercise\PersonExercise\obj\Debug\PersonExercise.exe
+C:\Users\ncollins\nicholascollins-c-exercises\m1-w2d4-introduction-to-classes-exercise\PersonExercise\obj\Debug\PersonExercise.pdb

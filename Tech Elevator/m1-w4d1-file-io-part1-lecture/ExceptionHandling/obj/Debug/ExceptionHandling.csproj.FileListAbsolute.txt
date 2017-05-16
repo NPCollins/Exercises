@@ -1,0 +1,6 @@
+C:\Users\ncollins\c-lectures\m1-w4d1-file-io-part1-lecture\ExceptionHandling\bin\Debug\ExceptionHandling.exe.config
+C:\Users\ncollins\c-lectures\m1-w4d1-file-io-part1-lecture\ExceptionHandling\bin\Debug\ExceptionHandling.exe
+C:\Users\ncollins\c-lectures\m1-w4d1-file-io-part1-lecture\ExceptionHandling\bin\Debug\ExceptionHandling.pdb
+C:\Users\ncollins\c-lectures\m1-w4d1-file-io-part1-lecture\ExceptionHandling\obj\Debug\ExceptionHandling.exe
+C:\Users\ncollins\c-lectures\m1-w4d1-file-io-part1-lecture\ExceptionHandling\obj\Debug\ExceptionHandling.pdb
+C:\Users\ncollins\c-lectures\m1-w4d1-file-io-part1-lecture\ExceptionHandling\obj\Debug\ExceptionHandling.csprojResolveAssemblyReference.cache

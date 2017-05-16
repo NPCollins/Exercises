@@ -1,0 +1,18 @@
+﻿
+@{
+    ViewBag.Title = "AlienWeight";
+}
+
+@using SSGeek.Models;
+
+
+<h2>AlienWeight</h2>
+@using (Html.BeginForm("AlienWeightResult", "Calculators", FormMethod.Get))
+{
+    <div>
+        @Html.DropDownList("PlanetGravity", AlienWeightModel.Planets)
+        @Html.TextBox("ClientWeight")
+        <input type="submit" value="Submit" />
+
+    </div>
+}

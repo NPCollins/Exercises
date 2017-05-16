@@ -1,0 +1,26 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+
+}
+@using WeatherWebsite.Models;
+@using System.Data.SqlClient;
+
+@model List<Park>
+
+<div style="padding-top:20px">
+<table>
+    @foreach (Park park in Model)
+    {
+        string fullImageSource = "../../Content/img/parks/" + park.ParkCode.ToLower() + ".jpg";
+        <tr style="margin-bottom:10px; border-bottom: 1px double #bcbcbc">
+            <td style="height:370px; padding-right:15px"><a href="@Url.Action("Detail", "Home", new { id = @park.ParkCode })"> <img src="@fullImageSource" /></a></td>
+            <td style="font-size:20px"><a href="@Url.Action("Detail", "Home", new { id = @park.ParkCode })">@park.ParkName</a> <br />
+                <b> @park.State</b> <br />
+                @park.ParkDescription
+            </td>
+            
+        </tr>
+        
+    }
+</table>
+</div>

@@ -1,0 +1,34 @@
+﻿
+@{
+    ViewBag.Title = "XOrderedResult";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@using System;
+@using System.Collections.Generic;
+@using System.Linq;
+@using System.Web;
+@using System.Web.Mvc;
+@using Exercises.Web.Models;
+
+@model Person
+
+<h2>XOrderedResult</h2>
+
+@if (Model.Format == "FirstMiddleLast")
+{
+    <p> @Model.FirstName <br /> @Model.MiddleInitial <br /> @Model.LastName </p>
+}
+@if (Model.Format == "FirstLast")
+{
+    <p> @Model.FirstName <br /> @Model.LastName </p>
+}
+@if (Model.Format == "LastFirstMiddle")
+{
+    <p> @Model.LastName <br /> @Model.FirstName <br /> @Model.MiddleInitial </p>
+}
+@if (Model.Format == "LastFirst")
+{
+    <p> @Model.LastName <br /> @Model.FirstName</p>
+}
+

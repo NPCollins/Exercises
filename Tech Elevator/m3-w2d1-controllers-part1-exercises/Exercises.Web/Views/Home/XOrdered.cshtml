@@ -1,0 +1,49 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+@using System;
+@using System.Collections.Generic;
+@using System.Linq;
+@using System.Web;
+@using System.Web.Mvc;
+
+@using (Html.BeginForm("xOrderedResult","Home",FormMethod.Post))
+{
+    @Html.Label("Enter Your First Name");
+    <br />
+    @Html.TextBox("FirstName", "Johnny");
+    <br />
+    @Html.Label("Enter Your Middle Initial");
+    <br />
+    @Html.TextBox("Initial", "H");
+    <br />
+    @Html.Label("Enter Your Last Name");
+    <br />
+    @Html.TextBox("LastName", "Appleseed");
+    <br />
+
+    <h2>Choose Order</h2>
+
+    
+    @Html.RadioButton("order","FirstMiddleLast");
+    @Html.Label("First Middle Last");
+    <br />
+    
+    @Html.RadioButton("order", "FirstLast")
+    @Html.Label("First Last");
+    <br />
+    
+    @Html.RadioButton("order", "LastFirstMiddle");
+    @Html.Label("Last First Middle");
+    <br />
+    
+    @Html.RadioButton("order", "LastFirst");
+    @Html.Label("Last First");
+    <br />
+
+    <input type="submit" value="submit" />
+
+
+}

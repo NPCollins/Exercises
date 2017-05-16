@@ -1,0 +1,7 @@
+C:\Users\ncollins\c-week4-pair-exercises\m1-w4d4-vending-minicapstone\VendTest\obj\Debug\VendTest.csprojResolveAssemblyReference.cache
+C:\Users\ncollins\c-week4-pair-exercises\m1-w4d4-vending-minicapstone\VendTest\bin\Debug\VendTest.dll
+C:\Users\ncollins\c-week4-pair-exercises\m1-w4d4-vending-minicapstone\VendTest\bin\Debug\VendTest.pdb
+C:\Users\ncollins\c-week4-pair-exercises\m1-w4d4-vending-minicapstone\VendTest\bin\Debug\Vend.exe
+C:\Users\ncollins\c-week4-pair-exercises\m1-w4d4-vending-minicapstone\VendTest\bin\Debug\Vend.pdb
+C:\Users\ncollins\c-week4-pair-exercises\m1-w4d4-vending-minicapstone\VendTest\obj\Debug\VendTest.dll
+C:\Users\ncollins\c-week4-pair-exercises\m1-w4d4-vending-minicapstone\VendTest\obj\Debug\VendTest.pdb

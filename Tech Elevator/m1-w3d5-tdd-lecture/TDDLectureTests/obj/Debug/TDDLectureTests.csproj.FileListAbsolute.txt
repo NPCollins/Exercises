@@ -1,0 +1,8 @@
+C:\Users\ncollins\c-lectures\m1-w3d5-tdd-lecture\TDDLectureTests\bin\Debug\TDDLectureTests.dll
+C:\Users\ncollins\c-lectures\m1-w3d5-tdd-lecture\TDDLectureTests\bin\Debug\TDDLectureTests.pdb
+C:\Users\ncollins\c-lectures\m1-w3d5-tdd-lecture\TDDLectureTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\ncollins\c-lectures\m1-w3d5-tdd-lecture\TDDLectureTests\bin\Debug\TDDLecture.dll
+C:\Users\ncollins\c-lectures\m1-w3d5-tdd-lecture\TDDLectureTests\bin\Debug\TDDLecture.pdb
+C:\Users\ncollins\c-lectures\m1-w3d5-tdd-lecture\TDDLectureTests\obj\Debug\TDDLectureTests.csprojResolveAssemblyReference.cache
+C:\Users\ncollins\c-lectures\m1-w3d5-tdd-lecture\TDDLectureTests\obj\Debug\TDDLectureTests.dll
+C:\Users\ncollins\c-lectures\m1-w3d5-tdd-lecture\TDDLectureTests\obj\Debug\TDDLectureTests.pdb

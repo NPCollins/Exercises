@@ -1,0 +1,6 @@
+C:\Users\ncollins\nicholascollins-c-exercises\m1-w1d5-command-line-input-exercises\DecimalToBinary\bin\Debug\DecimalToBinary.exe.config
+C:\Users\ncollins\nicholascollins-c-exercises\m1-w1d5-command-line-input-exercises\DecimalToBinary\bin\Debug\DecimalToBinary.exe
+C:\Users\ncollins\nicholascollins-c-exercises\m1-w1d5-command-line-input-exercises\DecimalToBinary\bin\Debug\DecimalToBinary.pdb
+C:\Users\ncollins\nicholascollins-c-exercises\m1-w1d5-command-line-input-exercises\DecimalToBinary\obj\Debug\DecimalToBinary.exe
+C:\Users\ncollins\nicholascollins-c-exercises\m1-w1d5-command-line-input-exercises\DecimalToBinary\obj\Debug\DecimalToBinary.pdb
+C:\Users\ncollins\nicholascollins-c-exercises\m1-w1d5-command-line-input-exercises\DecimalToBinary\obj\Debug\DecimalToBinary.csprojResolveAssemblyReference.cache

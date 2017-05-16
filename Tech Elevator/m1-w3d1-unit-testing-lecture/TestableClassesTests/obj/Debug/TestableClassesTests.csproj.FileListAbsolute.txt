@@ -1,0 +1,8 @@
+C:\Users\ncollins\c-lectures\m1-w3d1-unit-testing-lecture\TestableClassesTests\bin\Debug\TestableClassesTests.dll
+C:\Users\ncollins\c-lectures\m1-w3d1-unit-testing-lecture\TestableClassesTests\bin\Debug\TestableClassesTests.pdb
+C:\Users\ncollins\c-lectures\m1-w3d1-unit-testing-lecture\TestableClassesTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\ncollins\c-lectures\m1-w3d1-unit-testing-lecture\TestableClassesTests\bin\Debug\TestableClasses.dll
+C:\Users\ncollins\c-lectures\m1-w3d1-unit-testing-lecture\TestableClassesTests\bin\Debug\TestableClasses.pdb
+C:\Users\ncollins\c-lectures\m1-w3d1-unit-testing-lecture\TestableClassesTests\obj\Debug\TestableClassesTests.csprojResolveAssemblyReference.cache
+C:\Users\ncollins\c-lectures\m1-w3d1-unit-testing-lecture\TestableClassesTests\obj\Debug\TestableClassesTests.dll
+C:\Users\ncollins\c-lectures\m1-w3d1-unit-testing-lecture\TestableClassesTests\obj\Debug\TestableClassesTests.pdb

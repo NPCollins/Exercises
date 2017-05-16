@@ -1,0 +1,85 @@
+﻿/*
+    #333333 (header background) 
+    #f2f2f2 (nav background) 
+    #009900 (nav links) 
+    #d6f5d6 (account text) 
+    #009900 (account headings) 
+    #bfbfbf (footer background)
+    */
+
+
+#headerBackground {
+    background: #333333;
+    padding: 5px;
+}
+
+#Links {
+    padding-top: 20px;
+}
+
+#navBackgrounds {
+    background: #f2f2f2;
+    position: relative;
+    border-bottom: 1px solid #bfbfbf;
+}
+
+#accountText {
+    background: #d6f5d6;
+
+}
+
+#accountHeadings {
+    background: #009900;
+}
+
+#footerBackground {
+    background: #bfbfbf;
+    margin-top: -17px;
+    padding: 1px;
+}
+
+img {
+    background-color: white;
+}
+
+#slogan {
+    color: white;
+    padding-bottom: 0px;
+}
+
+a {
+    text-decoration: none;
+    color: #009900;
+    font-weight: bold;
+    padding: 0px 50px 0px 50px;
+    border-right: 1px solid #bfbfbf;
+}
+
+h1 {
+    color: #009900;
+    padding:15px;
+}
+
+#dollarDiv {
+    display:inline-block;
+    position:relative;
+    width: 32%;
+    vertical-align: top;
+    padding: 10px;
+}
+
+#body {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#outerBody {
+    width: 100%;
+}
+
+.paragraph{
+    margin:20px;
+}
+
+
+

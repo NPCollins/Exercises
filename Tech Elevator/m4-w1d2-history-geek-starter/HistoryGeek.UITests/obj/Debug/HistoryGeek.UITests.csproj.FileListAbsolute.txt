@@ -1,0 +1,10 @@
+C:\Users\ncollins\nicholascollins-c-exercises\m4-w1d2-history-geek-starter\HistoryGeek.UITests\bin\Debug\HistoryGeek.UITests.dll
+C:\Users\ncollins\nicholascollins-c-exercises\m4-w1d2-history-geek-starter\HistoryGeek.UITests\bin\Debug\HistoryGeek.UITests.pdb
+C:\Users\ncollins\nicholascollins-c-exercises\m4-w1d2-history-geek-starter\HistoryGeek.UITests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\ncollins\nicholascollins-c-exercises\m4-w1d2-history-geek-starter\HistoryGeek.UITests\bin\Debug\WebDriver.dll
+C:\Users\ncollins\nicholascollins-c-exercises\m4-w1d2-history-geek-starter\HistoryGeek.UITests\bin\Debug\WebDriver.Support.dll
+C:\Users\ncollins\nicholascollins-c-exercises\m4-w1d2-history-geek-starter\HistoryGeek.UITests\bin\Debug\WebDriver.xml
+C:\Users\ncollins\nicholascollins-c-exercises\m4-w1d2-history-geek-starter\HistoryGeek.UITests\bin\Debug\WebDriver.Support.xml
+C:\Users\ncollins\nicholascollins-c-exercises\m4-w1d2-history-geek-starter\HistoryGeek.UITests\obj\Debug\HistoryGeek.UITests.csprojResolveAssemblyReference.cache
+C:\Users\ncollins\nicholascollins-c-exercises\m4-w1d2-history-geek-starter\HistoryGeek.UITests\obj\Debug\HistoryGeek.UITests.dll
+C:\Users\ncollins\nicholascollins-c-exercises\m4-w1d2-history-geek-starter\HistoryGeek.UITests\obj\Debug\HistoryGeek.UITests.pdb

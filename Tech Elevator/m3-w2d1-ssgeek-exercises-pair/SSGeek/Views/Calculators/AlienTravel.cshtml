@@ -1,0 +1,19 @@
+﻿
+@{
+    ViewBag.Title = "AlienTravel";
+}
+
+@using SSGeek.Models;
+
+<h2>AlienTravel</h2>
+
+@using (Html.BeginForm("AlienTravelResult", "Calculators", FormMethod.Get))
+{
+    <div>
+        @Html.DropDownList("PlanetDistance", AlienTravelModel.Planets)
+        @Html.DropDownList("MethodOfTravel", AlienTravelModel.MethodOfTravel)
+        @Html.TextBox("ClientAge")
+        <input type="submit" value="Submit" />
+
+    </div>
+}

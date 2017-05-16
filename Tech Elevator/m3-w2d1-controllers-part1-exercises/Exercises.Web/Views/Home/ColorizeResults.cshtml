@@ -1,0 +1,29 @@
+﻿
+@{
+    ViewBag.Title = "ColorizeResults";
+}
+
+@using System;
+@using System.Collections.Generic;
+@using System.Linq;
+@using System.Web;
+@using System.Web.Mvc;
+@using Exercises.Web.Models;
+
+@model Person
+<h2>ColorizeResults</h2>
+
+@if(Model.Red == "true,false")
+{
+    <p style="color:red;"> @Model.FirstName @Model.LastName <br /> </p>
+}
+@if (Model.Green == "true,false")
+{
+    <p style="color:green;"> @Model.FirstName @Model.LastName <br /> </p>
+}
+@if (Model.Blue == "true,false")
+{
+    <p style="color:blue;"> @Model.FirstName @Model.LastName <br /> </p>
+}
+
+

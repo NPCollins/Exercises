@@ -1,0 +1,16 @@
+C:\Users\john\VisualStudio\m1-csharp-expressions-lecture\BooleanExpressions\bin\Debug\BooleanExpressions.exe.config
+<<<<<<< HEAD
+C:\Users\ncollins\c-lectures\m1-w1d3-expressions-lecture\BooleanExpressions\bin\Debug\BooleanExpressions.exe.config
+C:\Users\ncollins\c-lectures\m1-w1d3-expressions-lecture\BooleanExpressions\bin\Debug\BooleanExpressions.exe
+C:\Users\ncollins\c-lectures\m1-w1d3-expressions-lecture\BooleanExpressions\bin\Debug\BooleanExpressions.pdb
+C:\Users\ncollins\c-lectures\m1-w1d3-expressions-lecture\BooleanExpressions\obj\Debug\BooleanExpressions.csprojResolveAssemblyReference.cache
+C:\Users\ncollins\c-lectures\m1-w1d3-expressions-lecture\BooleanExpressions\obj\Debug\BooleanExpressions.exe
+C:\Users\ncollins\c-lectures\m1-w1d3-expressions-lecture\BooleanExpressions\obj\Debug\BooleanExpressions.pdb
+=======
+C:\Users\john\c-lectures\m1-w1d3-expressions-lecture\BooleanExpressions\bin\Debug\BooleanExpressions.exe.config
+C:\Users\john\c-lectures\m1-w1d3-expressions-lecture\BooleanExpressions\bin\Debug\BooleanExpressions.exe
+C:\Users\john\c-lectures\m1-w1d3-expressions-lecture\BooleanExpressions\bin\Debug\BooleanExpressions.pdb
+C:\Users\john\c-lectures\m1-w1d3-expressions-lecture\BooleanExpressions\obj\Debug\BooleanExpressions.csprojResolveAssemblyReference.cache
+C:\Users\john\c-lectures\m1-w1d3-expressions-lecture\BooleanExpressions\obj\Debug\BooleanExpressions.exe
+C:\Users\john\c-lectures\m1-w1d3-expressions-lecture\BooleanExpressions\obj\Debug\BooleanExpressions.pdb
+>>>>>>> 9b11ae7514d3466b5a8cb0f1614d03991db9eb65

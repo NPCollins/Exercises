@@ -1,0 +1,31 @@
+﻿@using SSGeek.Models;
+@{
+    ViewBag.Title = "AlienStore";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Solar System Geek Gift Shop</h2>
+
+@model List<Product>
+
+<div>
+    @using (Html.BeginForm("ProductDetail", "Store", FormMethod.Get))
+    {
+
+        foreach (Product p in Model)
+        {
+
+            <div>
+                <table>
+                    <tbody>
+                        <tr>
+                            @{var fullUrl = Url.Action("ProductDetail", "Store", new {id = p.ProductId }, Request.Url.Scheme);}
+                            <td><a href="@fullUrl"><img src="~/Content/img/@p.ImageName" /></a></td>
+                            <td><span style="font-weight:bolder">@p.Name @p.Description <br /> @p.Price</span></td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        }
+    }
+</div>

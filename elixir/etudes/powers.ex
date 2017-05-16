@@ -1,14 +1,28 @@
 
-import Kernel, except: [raise: 2]
+
 defmodule Powers do
-	def raise(x, y) do
-		cond do
-			y == 0 -> 1
-			y == 1 -> x
-			y > 0 -> x * raise(x, y - 1)
-			y < 0 -> 1 / raise(x, -y) 
-		end
-	end	
+import Kernel, except: [raise: 2]
+	
+	def raise(x, n)
+
+	def raise(_, 0) do
+		1
+	end
+	def raise(x, n) when n < 0 do
+		1 / raise(x, -n)
+	end
+	def raise(x, n) when n > 0 do
+		raise(x, n, 1)
+	end
+
+	defp raise(x, n, accumulator)
+
+	defp raise(_x, 0, accumulator) do
+		accumulator
+	end
+	defp raise(x, n, accumulator) do
+		raise(x, n - 1, x * accumulator)
+	end
 end
 
 

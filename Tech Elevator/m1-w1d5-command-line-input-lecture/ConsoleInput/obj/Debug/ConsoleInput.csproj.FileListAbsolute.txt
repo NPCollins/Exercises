@@ -1,0 +1,6 @@
+C:\Users\ncollins\c-lectures\m1-w1d5-command-line-input-lecture\ConsoleInput\bin\Debug\ConsoleInput.exe.config
+C:\Users\ncollins\c-lectures\m1-w1d5-command-line-input-lecture\ConsoleInput\bin\Debug\ConsoleInput.exe
+C:\Users\ncollins\c-lectures\m1-w1d5-command-line-input-lecture\ConsoleInput\bin\Debug\ConsoleInput.pdb
+C:\Users\ncollins\c-lectures\m1-w1d5-command-line-input-lecture\ConsoleInput\obj\Debug\ConsoleInput.csprojResolveAssemblyReference.cache
+C:\Users\ncollins\c-lectures\m1-w1d5-command-line-input-lecture\ConsoleInput\obj\Debug\ConsoleInput.exe
+C:\Users\ncollins\c-lectures\m1-w1d5-command-line-input-lecture\ConsoleInput\obj\Debug\ConsoleInput.pdb

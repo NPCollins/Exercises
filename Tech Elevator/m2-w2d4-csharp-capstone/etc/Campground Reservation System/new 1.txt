@@ -1,0 +1,26 @@
+desiredStartDate;
+desiredEndDate;
+
+reservedStartDate;
+reservedEndDate;
+
+for (i)
+{
+	if ((reservedStartDate[i] >= desiredStartDate && desiredStartDate <= reservedEndDate[i]) || (reservedStartDate[i] >= desiredEndDate && desiredEndDate <= reservedEndDate[i]))
+		{
+		false;
+		}
+		
+	else if (reservedStartDate[i] <= desiredStartDate && reservedEndDate[i] >= desiredEndDate)
+		{
+		false;
+		}
+	else 
+		{
+		true;
+		}
+}
+
+
+
+

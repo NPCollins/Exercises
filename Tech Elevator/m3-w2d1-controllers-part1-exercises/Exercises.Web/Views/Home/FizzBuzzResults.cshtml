@@ -1,0 +1,35 @@
+﻿
+@{
+    ViewBag.Title = "FizzBuzzResults";
+}
+
+<h2>FizzBuzzResults</h2>
+
+@using System;
+@using System.Collections.Generic;
+@using System.Linq;
+@using System.Web;
+@using System.Web.Mvc;
+@using Exercises.Web.Models;
+
+@model FizzBuzz
+
+@foreach (int number in Model.NumberList)
+{
+    if (number % Model.Divisor1 == 0 && number % Model.Divisor2 == 0)
+    {
+        <p>@Model.AltFizzBuzz</p>
+    }
+    else if (number % Model.Divisor1 == 0)
+    {
+        <p>@Model.AltFizz</p>
+    }
+    else if (number % Model.Divisor2 == 0)
+    {
+        <p>@Model.AltBuzz</p>
+    }
+    else
+    {
+        <p>@number</p>
+    }
+}

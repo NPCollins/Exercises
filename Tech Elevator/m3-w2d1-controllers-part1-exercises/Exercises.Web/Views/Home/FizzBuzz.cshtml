@@ -1,0 +1,51 @@
+﻿
+@{
+    ViewBag.Title = "FizzBuzz";
+}
+
+@using System;
+@using System.Collections.Generic;
+@using System.Linq;
+@using System.Web;
+@using System.Web.Mvc;
+
+<h2>FizzBuzz</h2>
+
+@using (Html.BeginForm("FizzBuzzResults", "Home", FormMethod.Post))
+{
+    @Html.Label("Divisible by:");
+    <br />
+    @Html.TextBox("Divisor1");
+    <br />
+    @Html.Label("Divisible by:");
+    <br />
+    @Html.TextBox("Divisor2");
+    <br />
+    @Html.Label("Alternative Fizz");
+    <br />
+    @Html.TextBox("AltFizz");
+    <br />
+    @Html.Label("Alternative Buzz");
+    <br />
+    @Html.TextBox("AltBuzz");
+    <br />
+
+    @Html.Label("Number1: ");
+    @Html.TextBox("Number1", 1);
+    <br />
+    @Html.Label("Number2: ");
+    @Html.TextBox("Number2", 2);
+    <br />
+    @Html.Label("Number3: ");
+    @Html.TextBox("Number3", 3);
+    <br />
+    @Html.Label("Number4: ");
+    @Html.TextBox("Number4", 5);
+    <br />
+    @Html.Label("Number5: ");
+    @Html.TextBox("Number5", 15);
+    <br />
+
+    <input type="submit" value="submit" />
+}
+

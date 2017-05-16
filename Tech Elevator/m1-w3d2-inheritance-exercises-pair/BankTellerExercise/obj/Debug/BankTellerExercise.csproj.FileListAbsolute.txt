@@ -1,0 +1,6 @@
+C:\Users\ncollins\week3team3-c-week3-pair-exercises\m1-w3d2-inheritance-exercises-pair\BankTellerExercise\bin\Debug\BankTellerExercise.exe.config
+C:\Users\ncollins\week3team3-c-week3-pair-exercises\m1-w3d2-inheritance-exercises-pair\BankTellerExercise\bin\Debug\BankTellerExercise.exe
+C:\Users\ncollins\week3team3-c-week3-pair-exercises\m1-w3d2-inheritance-exercises-pair\BankTellerExercise\bin\Debug\BankTellerExercise.pdb
+C:\Users\ncollins\week3team3-c-week3-pair-exercises\m1-w3d2-inheritance-exercises-pair\BankTellerExercise\obj\Debug\BankTellerExercise.csprojResolveAssemblyReference.cache
+C:\Users\ncollins\week3team3-c-week3-pair-exercises\m1-w3d2-inheritance-exercises-pair\BankTellerExercise\obj\Debug\BankTellerExercise.exe
+C:\Users\ncollins\week3team3-c-week3-pair-exercises\m1-w3d2-inheritance-exercises-pair\BankTellerExercise\obj\Debug\BankTellerExercise.pdb

@@ -1,0 +1,30 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title></title>
+</head>
+<body>
+    <div>
+        <ul>
+            @{ 
+                int a = 0, b = 1, c = 0;
+            }
+            
+            @for (int i = 2; i < 27; i++)
+            {
+            c= a + b;
+            <li>@c</li>
+            a= b;
+            b= c;
+            }
+            
+        </ul>
+    </div>
+</body>
+</html>

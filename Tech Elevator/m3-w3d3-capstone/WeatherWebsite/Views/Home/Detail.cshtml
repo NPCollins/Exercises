@@ -1,0 +1,42 @@
+﻿
+@{
+    ViewBag.Title = "Detail";
+}
+@using WeatherWebsite.Models;
+
+@model Park
+@{string fullImageSource = "../../Content/img/parks/" + Model.ParkCode.ToLower() + ".jpg"; }
+
+<h2>@Model.ParkName</h2>
+
+<div>
+    <div>
+        <img src="@fullImageSource" />
+        <p>@Model.ParkDescription</p>
+    </div>
+    <div>
+        <div>
+            <p>
+                State: @Model.State <br />
+                Acreage: @Model.Acreage <br />
+                Elevation: @Model.ElevationInFeet feet <br />
+                Miles of Trail: @Model.MilesOfTrail <br />
+                Number of Campsites: @Model.NumberOfCampsites <br />
+                Climate: @Model.Climate <br />
+                Year Founded: @Model.YearFounded <br />
+                Annual Visitor Count: @Model.AnnualVisitorCount <br />
+                Inspirational Quote:" @Model.InspirationalQuote " - @Model.InspirationalQuoteSource <br />
+                Entry Fee: $@Model.EntryFee <br />
+                Number of Animal Species: @Model.NumberOfAnimalSpecies <br />
+            </p>
+        </div>
+        <div>
+            <a href="@Url.Action("Weather", "Weather", new { id = Model.ParkCode})" class="btn btn-info btn-lg">Weather</a>
+        </div>
+        
+        
+    </div>
+    
+    
+</div>
+

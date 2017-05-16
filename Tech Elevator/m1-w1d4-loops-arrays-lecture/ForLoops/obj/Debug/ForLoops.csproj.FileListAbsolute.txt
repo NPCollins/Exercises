@@ -1,0 +1,6 @@
+C:\Users\ncollins\c-lectures\m1-w1d4-loops-arrays-lecture\ForLoops\bin\Debug\ForLoops.exe.config
+C:\Users\ncollins\c-lectures\m1-w1d4-loops-arrays-lecture\ForLoops\bin\Debug\ForLoops.exe
+C:\Users\ncollins\c-lectures\m1-w1d4-loops-arrays-lecture\ForLoops\bin\Debug\ForLoops.pdb
+C:\Users\ncollins\c-lectures\m1-w1d4-loops-arrays-lecture\ForLoops\obj\Debug\ForLoops.csprojResolveAssemblyReference.cache
+C:\Users\ncollins\c-lectures\m1-w1d4-loops-arrays-lecture\ForLoops\obj\Debug\ForLoops.exe
+C:\Users\ncollins\c-lectures\m1-w1d4-loops-arrays-lecture\ForLoops\obj\Debug\ForLoops.pdb

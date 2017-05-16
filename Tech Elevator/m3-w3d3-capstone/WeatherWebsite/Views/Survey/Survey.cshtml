@@ -1,0 +1,44 @@
+﻿
+@{
+    ViewBag.Title = "Survey";
+}
+@using WeatherWebsite.Models;
+
+@model Dictionary<string, string>
+<h2>Survey</h2>
+<div style="border:3px solid black">
+    <div>
+        @using (Html.BeginForm("UpdateSurveyTable", "Survey", FormMethod.Post))
+        {
+            <div>
+                @foreach (KeyValuePair<string, string> kvp in Model)
+                {
+                    <p>
+                        @Html.Label(kvp.Key)
+                        @Html.RadioButton("ParkName", kvp.Value)<br />
+                    </p>
+                }
+            </div>
+
+            @Html.Label("Email Address:");
+            @Html.TextBox("EmailAddress");<br />
+            @Html.Label("State of Residence");
+            @Html.TextBox("State");<br />
+            <p>Choose your activity level:</p>
+            @Html.Label("Extremely Active");
+            @Html.RadioButton("ActivityLevel", "Extremely Active")<br />
+            @Html.Label("Active");
+            @Html.RadioButton("ActivityLevel", "Active")<br />
+            @Html.Label("Inactive");
+            @Html.RadioButton("ActivityLevel", "Inactive")<br />
+            @Html.Label("Sedentary");
+            @Html.RadioButton("ActivityLevel", "Sedentary")<br />
+
+            <input type="submit" value="Submit" />
+
+        }
+    </div>
+</div>
+
+
+

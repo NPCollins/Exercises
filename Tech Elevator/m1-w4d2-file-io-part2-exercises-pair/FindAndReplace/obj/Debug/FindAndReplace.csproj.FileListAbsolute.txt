@@ -1,0 +1,6 @@
+C:\Users\ncollins\c-week4-pair-exercises\m1-w4d2-file-io-part2-exercises-pair\FindAndReplace\bin\Debug\FindAndReplace.exe.config
+C:\Users\ncollins\c-week4-pair-exercises\m1-w4d2-file-io-part2-exercises-pair\FindAndReplace\bin\Debug\FindAndReplace.exe
+C:\Users\ncollins\c-week4-pair-exercises\m1-w4d2-file-io-part2-exercises-pair\FindAndReplace\bin\Debug\FindAndReplace.pdb
+C:\Users\ncollins\c-week4-pair-exercises\m1-w4d2-file-io-part2-exercises-pair\FindAndReplace\obj\Debug\FindAndReplace.csprojResolveAssemblyReference.cache
+C:\Users\ncollins\c-week4-pair-exercises\m1-w4d2-file-io-part2-exercises-pair\FindAndReplace\obj\Debug\FindAndReplace.exe
+C:\Users\ncollins\c-week4-pair-exercises\m1-w4d2-file-io-part2-exercises-pair\FindAndReplace\obj\Debug\FindAndReplace.pdb

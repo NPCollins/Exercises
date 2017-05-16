@@ -1,0 +1,6 @@
+C:\Users\ncollins\c-week4-pair-exercises\m1-w4d1-file-io-part1-exercises-pair\WordCount\bin\Debug\WordCount.exe.config
+C:\Users\ncollins\c-week4-pair-exercises\m1-w4d1-file-io-part1-exercises-pair\WordCount\obj\Debug\WordCount.csprojResolveAssemblyReference.cache
+C:\Users\ncollins\c-week4-pair-exercises\m1-w4d1-file-io-part1-exercises-pair\WordCount\bin\Debug\WordCount.exe
+C:\Users\ncollins\c-week4-pair-exercises\m1-w4d1-file-io-part1-exercises-pair\WordCount\bin\Debug\WordCount.pdb
+C:\Users\ncollins\c-week4-pair-exercises\m1-w4d1-file-io-part1-exercises-pair\WordCount\obj\Debug\WordCount.exe
+C:\Users\ncollins\c-week4-pair-exercises\m1-w4d1-file-io-part1-exercises-pair\WordCount\obj\Debug\WordCount.pdb

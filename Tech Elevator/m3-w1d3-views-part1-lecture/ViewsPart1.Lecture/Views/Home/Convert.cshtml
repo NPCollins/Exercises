@@ -1,0 +1,17 @@
+﻿@{
+    Layout = null;  //<-- ignore this for now, it is used to create reusable site layouts
+
+    // Get "id" from the Request Url (e.g. localhost/Home/Convert/3)
+
+    string result = Url.RequestContext.RouteData.Values["id"].ToString();
+
+    int count;
+    Int32.TryParse(result, out count);
+
+    count *= 2;
+}
+
+<h2>Convert</h2>
+
+<h1> @count</h1>
+

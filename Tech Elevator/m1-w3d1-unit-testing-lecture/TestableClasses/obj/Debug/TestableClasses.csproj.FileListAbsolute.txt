@@ -1,0 +1,5 @@
+C:\Users\ncollins\c-lectures\m1-w3d1-unit-testing-lecture\TestableClasses\bin\Debug\TestableClasses.dll
+C:\Users\ncollins\c-lectures\m1-w3d1-unit-testing-lecture\TestableClasses\bin\Debug\TestableClasses.pdb
+C:\Users\ncollins\c-lectures\m1-w3d1-unit-testing-lecture\TestableClasses\obj\Debug\TestableClasses.csprojResolveAssemblyReference.cache
+C:\Users\ncollins\c-lectures\m1-w3d1-unit-testing-lecture\TestableClasses\obj\Debug\TestableClasses.dll
+C:\Users\ncollins\c-lectures\m1-w3d1-unit-testing-lecture\TestableClasses\obj\Debug\TestableClasses.pdb

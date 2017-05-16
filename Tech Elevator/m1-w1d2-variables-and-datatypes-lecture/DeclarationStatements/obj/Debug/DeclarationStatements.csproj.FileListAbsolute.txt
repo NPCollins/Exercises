@@ -1,0 +1,7 @@
+C:\Users\john\VisualStudio\m1-csharp-variables-and-datatypes-lecture\DeclarationStatements\bin\Debug\DeclarationStatements.exe.config
+C:\Users\john\c-lectures\m1-w1d2-variables-and-datatypes-lecture\DeclarationStatements\bin\Debug\DeclarationStatements.exe.config
+C:\Users\john\c-lectures\m1-w1d2-variables-and-datatypes-lecture\DeclarationStatements\bin\Debug\DeclarationStatements.exe
+C:\Users\john\c-lectures\m1-w1d2-variables-and-datatypes-lecture\DeclarationStatements\bin\Debug\DeclarationStatements.pdb
+C:\Users\john\c-lectures\m1-w1d2-variables-and-datatypes-lecture\DeclarationStatements\obj\Debug\DeclarationStatements.csprojResolveAssemblyReference.cache
+C:\Users\john\c-lectures\m1-w1d2-variables-and-datatypes-lecture\DeclarationStatements\obj\Debug\DeclarationStatements.exe
+C:\Users\john\c-lectures\m1-w1d2-variables-and-datatypes-lecture\DeclarationStatements\obj\Debug\DeclarationStatements.pdb

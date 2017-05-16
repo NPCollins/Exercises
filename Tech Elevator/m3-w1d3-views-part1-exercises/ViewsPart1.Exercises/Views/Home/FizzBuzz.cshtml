@@ -1,0 +1,39 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>FizzBuzz</title>
+</head>
+<body>
+    <div>
+        <ul style="list-style-type:none">
+            @for (int i = 1; i <= 100; i++)
+            {
+                if (i % 15 == 0)
+                {
+                    <li class="FIZZBUZZ" style="color:purple; font-size:25px">FizzBuzz!</li>
+                }
+                else if (i % 3 == 0)
+                {
+                    <li class="FIZZ" style="color:blue; font-size:15px">Fizz!</li>
+                }
+                else if (i % 5 == 0)
+                {
+                    <li class="BUZZ" style="color:red; font-size:15px">Buzz!</li>
+                }
+                else 
+                {
+                    <li class="default">@i</li>
+                }
+
+            }
+        </ul>
+
+    </div>
+</body>
+</html>

@@ -1,0 +1,40 @@
+﻿html {
+  font: 96px Courier;
+  color: white;
+}
+.box {
+  padding: 50px;
+  width: 70px;
+}
+.odd {
+  background-color: #ee3e64;
+}
+.even {
+  background-color: #44accf;
+}
+
+div:nth-child(2){
+    margin-left:170px;
+}
+div:nth-child(3){
+    margin-left:340px;
+}
+div:nth-child(4){
+    margin-left:510px;
+}
+div:nth-child(5){
+    margin-left:680px;
+}
+div:nth-child(6){
+    margin-left:680px;
+}
+div:nth-child(7){
+    margin-left:510px;
+}
+div:nth-child(8){
+    margin-left:340px;
+}
+div:nth-child(9){
+    margin-left:170px;
+}
+

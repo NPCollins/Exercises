@@ -1,0 +1,63 @@
+﻿
+@{
+    ViewBag.Title = "Weather";
+}
+
+@using WeatherWebsite.Models;
+
+@model List<Weather>
+@{ string isCelsius = (string)Session["UnitsC"];}
+
+
+
+<h2>Weather</h2>
+
+<div>
+    <table>
+        <tr><th>Pretty Pictures</th><th>Information</th></tr>
+        @foreach (Weather weather in Model)
+        {
+            string fullImageSource = "../../Content/img/weather/" + weather.Forecast.ToLower() + ".png";
+            <tr>
+                <td>
+                    <img src="@fullImageSource" />
+                </td>
+                <td>
+                    Day @weather.FiveDayForecastValue <br />
+                    Low: @if (isCelsius == "True")
+                    {
+                        @(Math.Round((weather.Low - 32.0) * (5.0 / 9.0)))
+                    }
+                    else
+                    {
+                        @weather.Low
+                    }
+                    High: @if (isCelsius == "True")
+                    {
+                        @(Math.Round((weather.High - 32.0) * (5.0 / 9.0)))
+                    }
+                    else
+                    {
+                        @weather.High
+                    }
+                    <br />
+                    @weather.getAdvice(weather.Forecast, weather.High, weather.Low)
+
+                </td>
+
+            </tr>
+
+        }
+    </table>
+</div>
+<div>
+    @using (Html.BeginForm("Weather", "Weather", FormMethod.Get))
+    {
+        @Html.Label("Celsius     ")
+        @Html.RadioButton("TempUnit", true)<br />
+        @Html.Label("Fahrenheit     ")
+        @Html.RadioButton("TempUnit", false)<br />
+
+        <input type="submit" value="Convert" />
+    }
+</div>

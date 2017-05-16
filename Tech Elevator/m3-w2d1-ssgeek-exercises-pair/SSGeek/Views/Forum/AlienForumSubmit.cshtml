@@ -1,0 +1,24 @@
+﻿
+@{
+    ViewBag.Title = "AlienForumSubmit";
+}
+
+<h2>New Geek Post</h2>
+@using (Html.BeginForm("AlienForum", "Forum", FormMethod.Post))
+{
+    <div>
+        @Html.Label("Username")
+        @Html.TextBox("Username");
+        <br />
+
+        @Html.Label("Subject")
+        @Html.TextBox("Subject");
+        <br />
+
+        @Html.Label("Message")
+        @Html.TextBox("Message");
+        <br />
+        
+        <input type="submit" value="Submit" />
+    </div>
+}s

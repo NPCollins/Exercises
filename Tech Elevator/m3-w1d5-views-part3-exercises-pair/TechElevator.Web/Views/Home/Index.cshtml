@@ -1,0 +1,30 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Page Title</title>
+    <link rel="stylesheet" href="~/Content/style.css" />
+</head>
+<body>
+    <header>
+        <h1>Movie Listing</h1>
+    </header>
+    <nav>
+        <ul>
+            <li>@Html.ActionLink("Movie List", "MovieList", "Home")</li>
+            <li>@Html.ActionLink("Nav Link 1", "MovieList", "Home")</li>
+            <li>@Html.ActionLink("Nav Link 2", "MovieList", "Home")</li>
+            <li>@Html.ActionLink("Nav Link 3", "MovieList", "Home")</li>
+        </ul>
+
+    </nav>
+    <section id="main-content">
+        <p>Page Content</p>
+    </section>
+</body>
+</html>

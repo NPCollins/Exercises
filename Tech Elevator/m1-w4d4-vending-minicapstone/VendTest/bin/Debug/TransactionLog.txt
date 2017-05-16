@@ -1,0 +1,24 @@
+2/10/2017 4:21:54 PM     $12.00 was added the updated balance is now $3.25.
+2/10/2017 4:21:54 PM     Potato Crisps was purchased from A1 slot for $0.85.  There are now 4 remaining.
+2/10/2017 4:21:54 PM     The ending balance was $25.65. The change given was 102 quarter(s), 1 dime(s), and 1 nickel(s).  The transaction is now finished.
+2/10/2017 4:21:54 PM     $50.00 was added the updated balance is now $50.
+2/10/2017 4:21:54 PM     $10.00 was added the updated balance is now $10.
+2/10/2017 4:21:54 PM     Potato Crisps was purchased from A1 slot for $3.05.  There are now 4 remaining.
+2/10/2017 8:17:19 PM     $12.00 was added the updated balance is now $3.25.
+2/10/2017 8:17:19 PM     Potato Crisps was purchased from A1 slot for $0.85.  There are now 5 remaining.
+2/10/2017 8:17:19 PM     The ending balance was $25.65. The change given was 102 quarter(s), 1 dime(s), and 1 nickel(s).  The transaction is now finished.
+2/10/2017 8:17:19 PM     $50.00 was added the updated balance is now $50.
+2/10/2017 8:17:19 PM     $10.00 was added the updated balance is now $10.
+2/10/2017 8:17:19 PM     Potato Crisps was purchased from A1 slot for $3.05.  There are now 4 remaining.
+2/10/2017 8:43:43 PM     $12.00 was added the updated balance is now $3.25.
+2/10/2017 8:43:43 PM     Potato Crisps was purchased from A1 slot for $0.85.  There are now 5 remaining.
+2/10/2017 8:43:43 PM     The ending balance was $25.65. The change given was 102 quarter(s), 1 dime(s), and 1 nickel(s).  The transaction is now finished.
+2/10/2017 8:43:43 PM     $50.00 was added the updated balance is now $50.
+2/10/2017 8:43:43 PM     $10.00 was added the updated balance is now $10.
+2/10/2017 8:43:43 PM     Potato Crisps was purchased from A1 slot for $3.05.  There are now 4 remaining.
+2/14/2017 7:11:57 PM     $12.00 was added the updated balance is now $3.25.
+2/14/2017 7:11:57 PM     Potato Crisps was purchased from A1 slot for $0.85.  There are now 5 remaining.
+2/14/2017 7:11:57 PM     The ending balance was $25.65. The change given was 102 quarter(s), 1 dime(s), and 1 nickel(s).  The transaction is now finished.
+2/14/2017 7:11:57 PM     $50.00 was added the updated balance is now $50.
+2/14/2017 7:11:57 PM     $10.00 was added the updated balance is now $10.
+2/14/2017 7:11:57 PM     Potato Crisps was purchased from A1 slot for $3.05.  There are now 4 remaining.

@@ -1,0 +1,76 @@
+An object is a specific instance of a class.
+
+A class is a blueprint or definition for an object.
+
+A class definition specifies places to hold data and code that operates on that data.
+
+	-Good for modularity and code hiding.
+	-Code re-use.
+	-Plugability and debugging.
+	
+	
+Data types
+
+	-Value types
+		-Simple Data Types
+			-int
+			-double
+			-char
+			-etc
+		-As Arguments to methods they're immutable
+		-Passing value
+		-use == for equivalence
+		-Stored in stack
+		
+	-Reference types
+		-Complex data types
+			-arrays
+			-Classes/Objects
+		-As Arguments to methods they're mutable
+		-passing address
+		- == means object equivalence
+		- Stored in heap
+	
+	-Strings
+		-Reference data type
+			-passing address
+			-Stored in heap
+		-value data type
+			-immutable in call to method
+			-use == for equivalence
+		-Technically considered Reference Data Type
+		
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+Declaration
+	eg. int[] studentScores;
+		-Declared the array but have yet to instance it.
+
+Instantiation
+	eg. studentScores = new int[100];
+		-Instanced the array.
+
+Initialization
+	eg. studentScores[0] = 99;
+		studentScores[1] = 87;
+		-Initialized the array.
+		
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+New Loop
+	-for each loop
+		-for each (int thisScore in studentScores) 
+		{
+			Console.WriteLine(thisScore);
+		}
+		-Cycles through every value of type int in the array and does something.
+
+List Syntax
+	-List<int> numbersList = new List<int>();
+	-List<Data-Type> listName = new List<Data-Type>();
+	
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+Enscapulation
+Polymorphism
+Inheritance

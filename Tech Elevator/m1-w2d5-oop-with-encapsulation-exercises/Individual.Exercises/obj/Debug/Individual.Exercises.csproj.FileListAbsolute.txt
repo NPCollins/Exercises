@@ -1,0 +1,6 @@
+C:\Users\ncollins\nicholascollins-c-exercises\m1-w2d5-oop-with-encapsulation-exercises\Individual.Exercises\bin\Debug\Individual.Exercises.exe.config
+C:\Users\ncollins\nicholascollins-c-exercises\m1-w2d5-oop-with-encapsulation-exercises\Individual.Exercises\bin\Debug\Individual.Exercises.exe
+C:\Users\ncollins\nicholascollins-c-exercises\m1-w2d5-oop-with-encapsulation-exercises\Individual.Exercises\bin\Debug\Individual.Exercises.pdb
+C:\Users\ncollins\nicholascollins-c-exercises\m1-w2d5-oop-with-encapsulation-exercises\Individual.Exercises\obj\Debug\Individual.Exercises.exe
+C:\Users\ncollins\nicholascollins-c-exercises\m1-w2d5-oop-with-encapsulation-exercises\Individual.Exercises\obj\Debug\Individual.Exercises.pdb
+C:\Users\ncollins\nicholascollins-c-exercises\m1-w2d5-oop-with-encapsulation-exercises\Individual.Exercises\obj\Debug\Individual.Exercises.csprojResolveAssemblyReference.cache

@@ -1,0 +1,10 @@
+<<<<<<< HEAD
+C:\Users\ncollins\nicholascollins-c-exercises\m1-w1d2-variables-and-datatypes-exercises\VariableNaming\bin\Debug\VariableNaming.exe.config
+C:\Users\ncollins\nicholascollins-c-exercises\m1-w1d2-variables-and-datatypes-exercises\VariableNaming\bin\Debug\VariableNaming.exe
+C:\Users\ncollins\nicholascollins-c-exercises\m1-w1d2-variables-and-datatypes-exercises\VariableNaming\bin\Debug\VariableNaming.pdb
+C:\Users\ncollins\nicholascollins-c-exercises\m1-w1d2-variables-and-datatypes-exercises\VariableNaming\obj\Debug\VariableNaming.csprojResolveAssemblyReference.cache
+C:\Users\ncollins\nicholascollins-c-exercises\m1-w1d2-variables-and-datatypes-exercises\VariableNaming\obj\Debug\VariableNaming.exe
+C:\Users\ncollins\nicholascollins-c-exercises\m1-w1d2-variables-and-datatypes-exercises\VariableNaming\obj\Debug\VariableNaming.pdb
+=======
+C:\Users\john\c-exercises\m1-w1d2-variables-and-datatypes-exercises\VariableNaming\bin\Debug\VariableNaming.exe.config
+>>>>>>> 1abe33156c01230347dbc4a200068acad9534d1d

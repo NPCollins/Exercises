@@ -1,0 +1,5 @@
+C:\Users\ncollins\nicholascollins-c-exercises\m1-w1optional-weekend-1-review-exercises\WeekendExercises\bin\Debug\WeekendExercises.dll
+C:\Users\ncollins\nicholascollins-c-exercises\m1-w1optional-weekend-1-review-exercises\WeekendExercises\bin\Debug\WeekendExercises.pdb
+C:\Users\ncollins\nicholascollins-c-exercises\m1-w1optional-weekend-1-review-exercises\WeekendExercises\obj\Debug\WeekendExercises.csprojResolveAssemblyReference.cache
+C:\Users\ncollins\nicholascollins-c-exercises\m1-w1optional-weekend-1-review-exercises\WeekendExercises\obj\Debug\WeekendExercises.dll
+C:\Users\ncollins\nicholascollins-c-exercises\m1-w1optional-weekend-1-review-exercises\WeekendExercises\obj\Debug\WeekendExercises.pdb

@@ -1,0 +1,27 @@
+﻿
+@{
+    ViewBag.Title = "Colorize";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Colorize</h2>
+
+@using (Html.BeginForm("ColorizeResults", "Home", FormMethod.Post))
+{
+    @Html.Label("Enter Your First Name")
+    <br />
+    @Html.TextBox("FirstName", "Johnny");
+    <br />
+    @Html.Label("Enter Your Last Name")
+    <br />
+    @Html.TextBox("LastName", "Appleseed");
+    <br />
+    <h2>Pick your colors</h2>
+    @Html.CheckBox("red");
+    @Html.Label("Red");
+    @Html.CheckBox("blue");
+    @Html.Label("Blue");
+    @Html.CheckBox("green");
+    @Html.Label("Green");
+    <input type="submit" value="submit" />
+}

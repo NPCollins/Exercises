@@ -1,0 +1,28 @@
+﻿
+@{
+    ViewBag.Title = "Lookup";
+}
+@using VoterInformation.Models
+@model List<VoterModel>
+
+<h2>Lookup</h2>
+
+<table>
+    <tr>
+        <th>First</th>
+        <th>Last</th>
+        <th>Number</th>
+        <th>Street</th>
+    </tr>
+
+    @foreach (VoterModel voter in Model)
+    {
+        <tr>
+            <td> @voter.FirstName </td>
+            <td> @voter.LastName</td>
+            <td> @voter.StreetNumber</td>
+            <td> @voter.StreetName</td>
+        </tr>
+    }
+</table>
+

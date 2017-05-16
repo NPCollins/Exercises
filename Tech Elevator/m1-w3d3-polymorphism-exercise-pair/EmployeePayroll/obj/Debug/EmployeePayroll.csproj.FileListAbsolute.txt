@@ -1,0 +1,6 @@
+C:\Users\ncollins\week3team3-c-week3-pair-exercises\m1-w3d3-polymorphism-exercise-pair\EmployeePayroll\bin\Debug\EmployeePayroll.exe.config
+C:\Users\ncollins\week3team3-c-week3-pair-exercises\m1-w3d3-polymorphism-exercise-pair\EmployeePayroll\bin\Debug\EmployeePayroll.exe
+C:\Users\ncollins\week3team3-c-week3-pair-exercises\m1-w3d3-polymorphism-exercise-pair\EmployeePayroll\bin\Debug\EmployeePayroll.pdb
+C:\Users\ncollins\week3team3-c-week3-pair-exercises\m1-w3d3-polymorphism-exercise-pair\EmployeePayroll\obj\Debug\EmployeePayroll.csprojResolveAssemblyReference.cache
+C:\Users\ncollins\week3team3-c-week3-pair-exercises\m1-w3d3-polymorphism-exercise-pair\EmployeePayroll\obj\Debug\EmployeePayroll.exe
+C:\Users\ncollins\week3team3-c-week3-pair-exercises\m1-w3d3-polymorphism-exercise-pair\EmployeePayroll\obj\Debug\EmployeePayroll.pdb

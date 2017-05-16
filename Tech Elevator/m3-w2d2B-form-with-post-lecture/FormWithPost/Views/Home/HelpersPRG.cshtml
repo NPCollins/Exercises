@@ -1,0 +1,54 @@
+﻿@{
+    ViewBag.Title = "HelpersPRG";
+}
+@using WebApplication3.Models
+@model Person
+
+<h2>@ViewBag.Title.</h2>
+<h3>@ViewBag.Message</h3>
+
+
+@using (Html.BeginForm("HelpersUpdatePRG", "Home", FormMethod.Post))
+{
+    @Html.Label("First:")
+    @Html.TextBox("First", Model.FirstName)
+    <br />
+
+    @Html.Label("Last:")
+    @Html.TextBox("Last", Model.LastName)
+    <br />
+
+    @Html.Label("Driver?:")
+    @Html.CheckBox("Driver", Model.LicensedDriver)
+    <br />
+
+    @Html.Label("Birth Year:")
+    @Html.TextBox("Birth", Model.BirthYear)
+    <br />
+
+    @Html.Label("Favorite color:")
+    <br />
+    @Html.Label("Red:")
+    @Html.RadioButton("FavoriteColor", "Red")
+    <br />
+    @Html.Label("White:")
+    @Html.RadioButton("FavoriteColor", "White")
+    <br />
+    @Html.Label("Blue:")
+    @Html.RadioButton("FavoriteColor", "Blue")
+    <br />
+
+    @Html.Label("Residence State:")
+    List<SelectListItem> listItems = Person.GetStates();
+    @Html.DropDownList("ResidenceState", new SelectList(listItems, "Value", "Text"))
+    <br />
+
+    <input type="submit" value="Save" />
+}
+
+<p>Previous value was: @Model.ToString()</p>
+
+
+
+
+
